@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Udemy Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azarateo/weather-app.git"
+  },
+  "author": "azarateo@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azarateo/weather-app/issues"
+  },
+  "homepage": "https://github.com/azarateo/weather-app#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
